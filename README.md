@@ -1,7 +1,7 @@
 ### Hola a todos 👋
 👉 Soy Cris 
 
-# Me presento:  
+# Sobre mi:  
 👉 Antes gestora de equipos y ahora Junior Front End Developer gracias a @Adalab. Acabo de terminar su bootcamp donde he aprendido:  
 
 - Maquetación: HTML5, CSS3, Flexbox, CSS Grid, SASS
