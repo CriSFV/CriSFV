@@ -1,8 +1,11 @@
-### Hola a todos 👋
+## Hola a todos 👋
 👉 Soy Cris 
 
-# Sobre mi:  
-👉 Antes gestora de equipos y ahora Junior Front End Developer gracias a @Adalab. Acabo de terminar su bootcamp donde he aprendido:  
+## Sobre mi:  
+👉 Apasionada de la vida y de la gente, sabiendo ver lo positivo que aporta cada uno. Muchos años gestionando grupos me han ayudado a trabajar mejor en equipo y a contribuir en el desarrollo de las personas.  
+Positiva, empática, con buena tolerancia al estrés y adaptabilidad a los cambios. Me gusta formarme de manera continua y tras muchos años en el mundo de la atención al cliente he decidido reinventarme en el mundo como desarrolladora front-end.
+
+Acabo de terminar el bootcamp de Adalab donde he aprendido:  
 
 - Maquetación: HTML5, CSS3, Flexbox, CSS Grid, SASS
 - JavaScript (ES6) y servicios web (APIs) de terceros
