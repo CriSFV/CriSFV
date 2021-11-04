@@ -1,5 +1,5 @@
 ## Hola a todos 👋
-👉 Soy Cris 
+👉 Soy Cris, bienvenidos a mi Git
 
 ## Sobre mi:  
 👉 Apasionada de la vida y de la gente, sabiendo ver lo positivo que aporta cada uno. Muchos años gestionando grupos me han ayudado a trabajar mejor en equipo y a contribuir en el desarrollo de las personas.  
@@ -7,17 +7,16 @@ Positiva, empática, con buena tolerancia al estrés y adaptabilidad a los cambi
 
 Acabo de terminar el bootcamp de Adalab donde he aprendido:  
 
-- Maquetación: HTML5, CSS3, Flexbox, CSS Grid, SASS
-- JavaScript (ES6) y servicios web (APIs) de terceros
-- Creación de SPAs con React
-- Conocimientos básicos de APIs y programación back: aplicaciones con NodeJS, Express y SQL
-- Control de veriones con Git
-- Manejo de Slack, GitHub, VS Code, Gulp, Terminal, Linter,
-- Zeplin
+➡️ Maquetación: HTML5, CSS3, Flexbox, CSS Grid, SASS  
+➡️ JavaScript (ES6) y servicios web (APIs) de terceros  
+➡️ Creación de SPAs con React  
+➡️ Conocimientos básicos de APIs y programación back: aplicaciones con NodeJS, Express y SQL  
+➡️ Control de veriones con Git  
+➡️ Manejo de Slack, GitHub, VS Code, Gulp, Terminal, Linter, Zeplin  
 
 
 
-- 🔭 Ahora estoy buscando mi primer trabajo en tech mientras, sigo formándome
+👀 Ahora estoy buscando mi primer trabajo en tech mientras, sigo formándome
 
 
 🔎 Puedes encontrarme en [Twitter](https://twitter.com/Krais_me) o [LinkedIn](https://www.linkedin.com/in/cristinafernandezv/) 
@@ -36,17 +35,16 @@ Acabo de terminar el bootcamp de Adalab donde he aprendido:
 
 👉 Team manager before and now Junior Front End Developer.  I've just finished @Adalab Bootcamp where I've learned:  
 
-- Layout: HTML5, CSS3, Flexbox, CSS Grid, SASS
-- JavaScript (ES6) and web services (APIs) 
-- SPAs with React
-- Basic knowledge of APIs and backend: NodeJS, Express y SQL
-- Git
-- Slack, GitHub, VS Code, Gulp, Terminal, Linter,
-- Zeplin  
+➡️ Layout: HTML5, CSS3, Flexbox, CSS Grid, SASS  
+➡️ JavaScript (ES6) and web services (APIs)  
+➡️ SPAs with React  
+➡️ Basic knowledge of APIs and backend: NodeJS, Express y SQL  
+➡️ Git  
+➡️ Slack, GitHub, VS Code, Gulp, Terminal, Linter, Zeplin   
   
     
 
-🔭 I’m currently looking for my first job in tech while I'm still studing
+👀 I’m currently looking for my first job in tech while I'm still studing
 
 
 🔎 You can reach me on [Twitter](https://twitter.com/Krais_me) or [LinkedIn](https://www.linkedin.com/in/cristinafernandezv/) 
