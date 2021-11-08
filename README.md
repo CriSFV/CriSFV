@@ -1,5 +1,5 @@
-## Hola a todos 👋
-👉 Soy Cris, bienvenidos a mi Git
+## 👋 Hola a todos 
+👉 Soy Cris, bienvenidos a mi perfil 
 
 ## Sobre mi:  
 👉 Apasionada de la vida y de la gente, sabiendo ver lo positivo que aporta cada uno. Muchos años gestionando grupos me han ayudado a trabajar mejor en equipo y a contribuir en el desarrollo de las personas.  
@@ -19,39 +19,12 @@ Acabo de terminar el bootcamp de Adalab donde he aprendido:
 👀 Ahora estoy buscando mi primer trabajo en tech mientras, sigo formándome
 
 
-🔎 Puedes encontrarme en [Twitter](https://twitter.com/Krais_me) o [LinkedIn](https://www.linkedin.com/in/cristinafernandezv/) 
+🔎 Puedes encontrarme en  [LinkedIn](https://www.linkedin.com/in/cristinafernandezv/) o [Twitter](https://twitter.com/Krais_me)
 
+        ------------------------------------------------------------------------------
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">  <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">  <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">  <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">  <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">  <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">  <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">  <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">  <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
-
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-### Hi there 👋
-👉 I'm Cris  
-
-# About me:
-
-👉 Team manager before and now Junior Front End Developer.  I've just finished @Adalab Bootcamp where I've learned:  
-
-➡️ Layout: HTML5, CSS3, Flexbox, CSS Grid, SASS  
-➡️ JavaScript (ES6) and web services (APIs)  
-➡️ SPAs with React  
-➡️ Basic knowledge of APIs and backend: NodeJS, Express y SQL  
-➡️ Git  
-➡️ Slack, GitHub, VS Code, Gulp, Terminal, Linter, Zeplin   
-  
-    
-
-👀 I’m currently looking for my first job in tech while I'm still studing
-
-
-🔎 You can reach me on [Twitter](https://twitter.com/Krais_me) or [LinkedIn](https://www.linkedin.com/in/cristinafernandezv/) 
-
-
-
-
+        -------------------------------------------------------------------------------
 
 <!--
 Para ver visitantes del readme:
@@ -61,16 +34,4 @@ Para que salgan tus contribuciones:
 ![CriSFV's GitHub stats](https://github-readme-stats.vercel.app/api?username=CriSFV&show_icons=true)
 
 
-**CriSFV/CriSFV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
